@@ -23,7 +23,7 @@ p{
 }
 #img {
     position: absolute;
-    bottom: 0;
+    top: 50%;
 }
 
 h1{ 
